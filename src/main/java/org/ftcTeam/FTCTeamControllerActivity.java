@@ -16,19 +16,7 @@ public class FTCTeamControllerActivity extends FtcRobotControllerActivity {
   @Override
   protected OpModeRegister createOpModeRegister() {
 
-   // return new FTCTeamRegistry();
-
-   // return new MyFirstBotRegistry();
-
-   // return new DemoBotRegistry();
-
-   return new NavBotRegistry();
-
-    //return new PushBotRegistry();
-
-   // return new OneMCRegistry();
-
-
+   return new FTCTeamRegistry();
 
 
   }
