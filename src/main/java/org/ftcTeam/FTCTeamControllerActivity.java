@@ -3,8 +3,8 @@ package org.ftcTeam;
 import com.qualcomm.robotcore.eventloop.opmode.OpModeRegister;
 
 import org.firstinspires.ftc.robotcontroller.internal.FtcRobotControllerActivity;
-import org.ftcTeam.opmodes.Registrar1;
-import org.ftcTeam.training.TrainingBeginnerRegistrar;
+import org.ftcTeam.opmodes.*;
+import org.ftcTeam.training.*;
 
 public class FTCTeamControllerActivity extends FtcRobotControllerActivity {
 
