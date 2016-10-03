@@ -1,11 +1,12 @@
 # team-template
 
-This repo is provided here to serve as a template for FTC teams to quickly create on or more Team Code modules to write their opmodes against.  For more information about how to write opmodes in this environment see: https://github.com/ftcbootstrap/training.  
+This repo is provided to serve as a template for FTC teams to quickly create one or more team code modules to develop OpModes.  For more information about how to write OpModes in this environment see: https://github.com/ftcbootstrap/training.  
 
 
 <h1> Installation Instructions </h1>
 
--Download or clone the training module repo ( https://github.com/ftcbootstrap/team-template) to your local machine.  
+-Download or clone the team template module repo ( https://github.com/ftcbootstrap/team-template) to your local machine.  
+-Rename the team-templage directory to team#### where #### is your team number.
 -Download or clone the dependent utilities repo ( https://github.com/ftcbootstrap/ftc-utilities) to your local machine.  
 -Copy the two directories under the ftc-app root project and change the ftc-app/settings.gradle file to look like this:
 
